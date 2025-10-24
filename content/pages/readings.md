@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the course textbook along with the
   readings assigned for each session of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
